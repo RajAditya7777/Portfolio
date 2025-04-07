@@ -16,8 +16,8 @@ const Footer = () => {
           </div>
           
           <div className="flex items-center">
-            <p className="text-gray-400">
-              &copy; {currentYear} Naveen Kumar. All rights reserved.
+            <p className="text-sm text-space-foreground/60">
+              &copy; {currentYear} Aditya Raj. All rights reserved.
             </p>
           </div>
         </div>

@@ -15,8 +15,8 @@ const HeroSection = () => {
           <div className="star w-1 h-1 bottom-10 left-1/3 animate-star-pulse" style={{ animationDelay: '1s' }} />
           <div className="star w-2 h-2 bottom-20 right-1/4 animate-star-pulse" style={{ animationDelay: '1.5s' }} />
           
-          <h1 className="text-4xl md:text-6xl font-bold mb-4 text-white animate-fade-in">
-            Hi, I'm <span className="gradient-text">Naveen Kumar</span>
+          <h1 className="text-4xl md:text-6xl font-bold mb-6">
+            Hi, I'm <span className="gradient-text">Aditya Raj</span>
           </h1>
           
           <h2 className="text-2xl md:text-3xl font-semibold mb-8 text-gray-300 animate-fade-in animate-delay-100">

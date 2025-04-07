@@ -31,7 +31,7 @@ const Navigation = () => {
     >
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <a href="#home" className="text-xl md:text-2xl font-bold gradient-text">
-          Naveen Kumar
+          <span className="text-xl font-bold">Aditya Raj</span>
         </a>
         
         {/* Desktop Navigation */}
